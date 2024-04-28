@@ -27,7 +27,6 @@
 <h3 align="left">**ในที่สุดโค้ดก็เสร็จสักที ดูจะทำงานปกติดีไม่น่ามีอะไร**</h3>
 <h3 align="left">Tester: </h3>
 <img src ='https://media1.tenor.com/m/6L4sDKKMXN8AAAAC/%E0%B9%80%E0%B8%99%E0%B9%82%E0%B8%AE%E0%B8%9F%E0%B8%B2%E0%B8%97%E0%B8%B9%E0%B8%A3%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B9%E0%B8%99%E0%B9%88%E0%B8%B2.gif'/>
-![348547384_916638546430493_6901018804084481268_n_ins](https://github.com/Microzzx/Microzzx/assets/120297524/60c81320-00d7-4f19-953f-6edbca9f38e8)
 <h3 align="left">Server ตอน deploy : </h3>
 <img src ='https://media1.tenor.com/m/P-BllVEAlfkAAAAC/the-undertaker-aj-styles.gif'/>
 
