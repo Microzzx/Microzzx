@@ -27,10 +27,10 @@
 <h3 align="left">**ในที่สุดโค้ดก็เสร็จสักที ดูจะทำงานปกติดีไม่น่ามีอะไร**</h3>
 <h3 align="left">Tester: </h3>
 <p align="left">
-  <img src ='https://drive.google.com/thumbnail?id=1RfOB7P_6ipfYlf1HquCG4wjdOkVeldCN'/>
+  <img src ='https://drive.google.com/thumbnail?id=1ExsQG0tdP4jgp-ip_sr1sBpFU7xb67Sy'/>
 </p>
 <h3 align="left">Server ตอน deploy : </h3>
 <p align="left">
-  <img src ='https://media1.tenor.com/m/P-BllVEAlfkAAAAC/the-undertaker-aj-styles.gif'/>
+  <img src ='https://drive.google.com/thumbnail?id=1HU9OhW1ZDn6xGkx7gV0bP4qK6Cu4rgjn'/>
 </p>
 
