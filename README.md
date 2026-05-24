@@ -12,16 +12,9 @@ business-facing web applications and telecommunications systems. My work
 focuses on RESTful API development, third-party service integrations, database
 workflows, and practical frontend delivery.
 
-## Experience Highlights
-
-- **Backend Developer | iSoftel (Thailand) Co., Ltd.** (2023 - Present)<br>
-  Develop Go-based RESTful APIs for telecommunications applications, integrate
-  AIS third-party services, optimize MySQL workflows, and enhance legacy Java
-  Spring Boot systems.
-
-- **Full-Stack Web Developer Intern | CP ALL Public Co., Ltd.** (2022 - 2023)<br>
-  Developed a contractor recruitment application using React, Tailwind CSS,
-  Node.js, and MySQL to support store expansion workflows.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=microzzx" alt="Microzzx GitHub contribution streak" />
+</p>
 
 ## Technical Skills
 
