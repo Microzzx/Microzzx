@@ -1,36 +1,50 @@
-<h1 align="center">Hello, my name's JanekitPK</h1>
-<h3 align="center">A developer from Thailand 😎</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<h1 align="center">Janekit Prakittawornkul</h1>
+<p align="center"><strong>Backend / Web Developer</strong> | Thailand</p>
+<p align="center">
+  Building maintainable backend services and web applications with Go, Java,
+  React, and Next.js.
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=microzzx&" alt="microzzx" /></p>
+## About Me
 
-<h3 align="left">**ในที่สุดโค้ดก็เสร็จสักที ดูจะทำงานปกติดีไม่น่ามีอะไร**</h3>
-<h3 align="left">Tester: </h3>
-<p align="left">
-  <img src ='https://drive.google.com/thumbnail?id=1ExsQG0tdP4jgp-ip_sr1sBpFU7xb67Sy'/>
-</p>
-<h3 align="left">Server ตอน deploy : </h3>
-<p align="left">
-  <img src ='https://drive.google.com/thumbnail?id=1HU9OhW1ZDn6xGkx7gV0bP4qK6Cu4rgjn'/>
-</p>
+I am a backend and web developer with professional experience delivering
+business-facing web applications and telecommunications systems. My work
+focuses on RESTful API development, third-party service integrations, database
+workflows, and practical frontend delivery.
 
+## Experience Highlights
+
+- **Backend Developer | iSoftel (Thailand) Co., Ltd.** (2023 - Present)<br>
+  Develop Go-based RESTful APIs for telecommunications applications, integrate
+  AIS third-party services, optimize MySQL workflows, and enhance legacy Java
+  Spring Boot systems.
+
+- **Full-Stack Web Developer Intern | CP ALL Public Co., Ltd.** (2022 - 2023)<br>
+  Developed a contractor recruitment application using React, Tailwind CSS,
+  Node.js, and MySQL to support store expansion workflows.
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Go, Java, Gin, Fiber, Spring Boot, REST APIs |
+| Frontend | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| Data | MySQL, Redis |
+| Tools | Docker, Git, PM2, Postman |
+
+## Current Focus
+
+- Reliable backend API design and system integrations
+- Performance-aware database and service workflows
+- Clean, responsive web interfaces backed by maintainable application code
+
+## Featured Project
+
+- [My Web Profile](https://github.com/Microzzx/MyProfile-2025) - A Next.js
+  portfolio featuring resume-based content, theme support, a video background,
+  and a modular floating music player.
+
+## Contact
+
+- Email: [janekitpk1@gmail.com](mailto:janekitpk1@gmail.com)
+- GitHub: [github.com/Microzzx](https://github.com/Microzzx)
